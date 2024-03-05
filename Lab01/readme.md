@@ -1,4 +1,4 @@
-# *Lab 1*
+# *Lab 1a*
 
 - **O código desenvolvido foi feito com o editor nano e se encontra no arquivo `hello.c`**
 
