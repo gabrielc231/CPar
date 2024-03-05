@@ -3,4 +3,4 @@
 ### **Cada atividade será separada em uma pasta correspondente ao nome da aula de laboratório.**
 
 ## *Integrantes do grupo:*
-### **Nome: Gabriel Gonzaga Chung TIA: 32263651**
+### **Nome: Gabriel Gonzaga Chung <br> RA: 10403025**
