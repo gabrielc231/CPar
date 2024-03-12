@@ -10,7 +10,7 @@
 - **As saídas da execução da aplicação foram colocadas: no arquivo `output.txt`**
 
 - **Foram colocadas screenshots da execução no ambiente aws dos códigos nos seguintes arquivos:**
-	-`console.png`
+	- `console.png`
 
 ## Imagens da AWS 
 ![console.png](./console.png "Foto do console da AWS")
