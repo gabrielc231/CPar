@@ -7,7 +7,6 @@
 - **O arquivo 'main.c' pode ser executados da seguinta forma:** 
 	- `gcc main.c - o <nome_desejado>`
 	- `./<nome_desejado>`
-- **As saídas da execução da aplicação foram colocadas: no arquivo `output.txt`**
 
 - **Foram colocadas screenshots da execução no ambiente aws dos códigos nos seguintes arquivos:**
 	- `console.png`
