@@ -14,11 +14,11 @@
   - `Data/parallel_time.txt` 
  
 - **O arquivo 'serial.c' pode ser executados da seguinta forma:** 
-	- `gcc serial.c - o <nome_desejado>`
+	- `gcc serial.c -o <nome_desejado>`
 	- `./<nome_desejado>`
 
 - **O arquivo 'parallel.c' pode ser executados da seguinta forma:** 
-	- `gcc parallel.c - o <nome_desejado>`
+	- `gcc parallel.c -o <nome_desejado>`
 	- `./<nome_desejado> <número de threads>`
 
 - **Foram colocadas screenshots da execução no ambiente aws dos códigos nos seguintes arquivos:**
@@ -35,12 +35,19 @@
 - **Eixo horizontal número de processadores**
 - **Eixo vertical speedup**  
 ![Gráfico speedup x número de processadores](Assets/speedup_graph.png "Gráfico speedup x número de processadores")
+-----------------------
+- **A solução encontrada para se utilizar melhor a paralelização, foi utilizando a flag de optimização do compilador `-o2`**  
+![Gráfico speedup x número de processadores](Assets/speedup_graph_optimized.png "Gráfico speedup x número de processadores")
 
 ## Imagens do tempo de execução na VM
+**Tempo Serial**  
 ![tempo do Programa Serial](Assets/serial_time.png "Tempo do Programa Serial")
 -----------------------
+**Tempo Paralelo**  
 ![tempo do Programa Paralelo](Assets/parallel_time.png "Tempo do Programa Paralelo")
-
+-----------------------
+**Tempo Paralelo Optimizado**  
+![tempo do Programa Paralelo Optimizado](Assets/parallel_time.png "Tempo do Programa Paralelo Optimizado")
 ## Imagens da AWS 
 ![console.png](Assets/console.png "Foto do console da AWS")
 ## Integrantes do grupo:
