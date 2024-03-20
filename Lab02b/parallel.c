@@ -82,7 +82,7 @@ int main(int argc, char* argv[]) {
 
     // O resultado está em y
     printf("Vetor resultante: \n");
-    print_vector(11,y);
+    print_vector(m,y);
 
 
     return 0;

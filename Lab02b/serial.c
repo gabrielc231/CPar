@@ -39,5 +39,5 @@ int main(int argc, char* argv[]) {
     // O resultado está em y
     Pth_mat_vect();
     printf("Vetor resultante: \n");
-    print_vector(4,y);
+    print_vector(m,y);
 }
