@@ -51,4 +51,4 @@
 ## Imagens da AWS 
 ![console.png](Assets/console.png "Foto do console da AWS")
 ## Integrantes do grupo:
-- **Nome: Gabriel Gonzaga Chung TIA: 32263651**
+- **Nome: Gabriel Gonzaga Chung RA: 10403025**
