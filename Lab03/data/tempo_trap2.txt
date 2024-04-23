@@ -1,0 +1,60 @@
+time ./trap2 1
+thread_count = 1
+n = 24000000
+a = 0.00
+b = 100.00
+
+resultado aproximado: 0.1376811277...
+
+real	0m0.225s
+user	0m0.223s
+sys	0m0.000s
+
+time ./trap2 2
+thread_count = 2
+n = 24000000
+a = 0.00
+b = 100.00
+
+resultado aproximado: 0.1376811277...
+
+real	0m0.121s
+user	0m0.232s
+sys	0m0.004s
+
+time ./trap2 4
+thread_count = 4
+n = 24000000
+a = 0.00
+b = 100.00
+
+resultado aproximado: 0.1376811277...
+
+real	0m0.067s
+user	0m0.245s
+sys	0m0.004s
+
+time ./trap2 6
+thread_count = 6
+n = 24000000
+a = 0.00
+b = 100.00
+
+resultado aproximado: 0.1376811277...
+
+real	0m0.058s
+user	0m0.304s
+sys	0m0.016s
+
+time ./trap2 8
+thread_count = 8
+n = 24000000
+a = 0.00
+b = 100.00
+
+resultado aproximado: 0.1376811277...
+
+real	0m0.058s
+user	0m0.414s
+sys	0m0.004s
+raido@raido-Virtual
