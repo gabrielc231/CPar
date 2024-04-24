@@ -13,7 +13,7 @@
 
 - **Foi colocado a solução do código com diretiva critical em `trap2.c`.**
 
-- **Foi colocado as informações do processador no arquivo 	
+- **Foi colocado as informações do processador no arquivo**	
   - `data/processor.txt`
   -	`data/processor_aws.txt`
 
