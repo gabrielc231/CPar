@@ -33,10 +33,10 @@
 - **Eixo horizontal número de processadores**
 - **Eixo vertical tempo de execução ou speedup**  
 ### Sem diretiva critical
-![Gráfico speedup x número de processadores](Assets/trap_graphs.png "Gráfico speedup x número de processadores")
+![Gráfico speedup e tempo de execução x número de processadores](assets/trap_graphs.png "Gráfico speedup x número de processadores")
 -----------------------
 ### Com diretiva critical  
-![Gráfico speedup x número de processadores](Assets/trap2_graphs.png "Gráfico speedup x número de processadores")
+![Gráfico speedup e tempo de execução x número de processadores](assets/trap2_graphs.png "Gráfico speedup x número de processadores")
 
 ## Imagens do tempo de execução num Linux (Ubuntu)
 **Tempo de Execução do algorítmo sem diretiva critical**  
