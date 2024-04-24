@@ -3,7 +3,7 @@
 
 - **O algorítmo divide, entre os threads, os trapézios a serem calculados.**
 
-- **A solução com diretiva critical resolve o problema de condição de corrida, garantindo que somente um processo tem acesso a determinada variável compartilhada em cada momento quando isso for necessário à correção do programa.**
+- **A solução com diretiva critical resolve o problema de condição de corrida, garantindo que somente um processo tem acesso a variável compartilhada em cada momento quando isso for necessário à correção do programa.**
 
 - **O algorítmo utiliza diretrizes da `openMP`.**
 
@@ -23,11 +23,11 @@
   - `data/trap_time.txt`
   - `data/trap2_time.txt` 
 
-- **O arquivo 'trap.c' pode ser executados da seguinta forma:** 
+- **O arquivo `trap.c` pode ser executados da seguinta forma:** 
 	- `gcc -g -Wall -fopenmp -o trap trap.c -lm`
 	- `./trap <número de threads>`
 
-- **O arquivo 'trap2.c' pode ser executados da seguinta forma:** 
+- **O arquivo `trap2.c` pode ser executados da seguinta forma:** 
 	- `gcc parallel.c -o trap2 trap2.c -lm`
 	- `./trap2 <número de threads>`
 
