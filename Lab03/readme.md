@@ -48,6 +48,6 @@
 ![tempo do Programa Paralelo](assets/trap2_vm.png "Tempo do Programa Paralelo")  
 -----------------------
 ## Imagens da AWS 
-![console.png](Assets/console.png "Foto do console da AWS")
+![console.png](assets/console.png "Foto do console da AWS")
 ## Integrantes do grupo:
 - **Nome: Gabriel Gonzaga Chung RA: 10403025**
