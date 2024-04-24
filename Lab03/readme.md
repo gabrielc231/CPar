@@ -3,6 +3,8 @@
 
 - **O algorítmo divide, entre os threads, os trapézios a serem calculados.**
 
+- **A solução com diretiva critical resolve o problema de condição de corrida, garantindo que somente um processo tem acesso a determinada variável compartilhada em cada momento quando isso for necessário à correção do programa.**
+
 - **O algorítmo utiliza diretrizes da `openMP`.**
 
 - **O editor de texto utilizado foi o `nano`.**
@@ -11,7 +13,10 @@
 
 - **Foi colocado a solução do código com diretiva critical em `trap2.c`.**
 
-- **Foi colocado as informações do processador no arquivo `data/processor.txt`.**
+- **Foi colocado as informações do processador no arquivo 	
+  - `data/processor.txt`
+  -	`data/processor_aws.txt`
+
 
 - **Foi colocado as informações do tempo obtido utilizando o comando `time` nos seguintes arquivos:**
 
