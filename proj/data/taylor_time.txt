@@ -1,0 +1,30 @@
+./taylor 1
+thread_count = 1
+num termos = 2400000
+resultado aproximado: 2.718281828459045235
+tempo: 0.49103126
+
+./taylor 2
+thread_count = 2
+num termos = 2400000
+resultado aproximado: 2.718281828459045235
+tempo: 0.37270198
+
+./taylor 4
+thread_count = 4
+num termos = 2400000
+resultado aproximado: 2.718281828459045235
+tempo: 0.32507619
+
+./taylor 6
+thread_count = 6
+num termos = 2400000
+resultado aproximado: 2.718281828459045235
+tempo: 0.29328811
+
+./taylor 8
+thread_count = 8
+num termos = 2400000
+resultado aproximado: 2.718281828459045235
+tempo: 0.28301363
+
